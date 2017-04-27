@@ -1,0 +1,2 @@
+# sentiment_classification
+Sentiment_classification_by_using_deep_neural_network
